@@ -1,0 +1,172 @@
+[?25l  [1m[35mSOVEREIGN[39m[2m  Local Multimodal AI  ·  Powered by QVAC  ·  Fully Offline[22m
+[90m╭─────────────────╮[35m╭──────────────────────────────────────────────────────────────────────────────────────╮[90m╭────────────────────────╮[39m
+[90m│[39m [1m[36mFILES[39m[22m           [90m│[35m│[39m [1m[35mCONVERSATION[39m[2m  Type a message to chat…[22m                                                [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mSelect a file to [22m      [90m│[39m
+[90m│[39m [1m[37m▶ [39m[22m [32m🎙 test.mp3[39m  [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mbegin.[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOutput will stream [22m    [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mdirectly[22m               [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2minto the main [22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mconversation.[22m          [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [90m──────────────────────[39m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [1m[36mMODELS[39m[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mLLM   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mWhisp [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOCR   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mTTS   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2mQVAC · offline · [22m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2msovereign[22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m [33m─── [2m⚡ Sovereign is ready. Select a file or type a message to begin.[22m[39m                  [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [90m───────────────[39m [90m│[35m│[39m [36m────────────────────────────────────────────────────────────────────────────────────[39m [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [2m1 file[22m          [90m│[35m│[39m [36m› [39m[2mType a message…[22m[37m█[39m                                                                   [35m│[90m│[39m                        [90m│[39m
+[90m╰─────────────────╯[35m╰──────────────────────────────────────────────────────────────────────────────────────╯[90m╰────────────────────────╯[39m
+[90m─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+ [1m[32m[CHAT][39m[22m                                                                        [2mPgUp/PgDn scroll  Tab mode  Ctrl+F files  Ctrl+C quit[22m
+[sdk:client] Model type "llm" is an alias and will be deprecated. Use "llamacpp-completion" instead.
+[sdk:client] ℹ️ No config file found, using SDK defaults
+[sdk:client] 📱 Runtime context: { runtime: 'node', platform: 'linux' }
+[sdk:client] ✅ Initialization complete
+[sdk:client] Model type "whisper" is an alias and will be deprecated. Use "whispercpp-transcription" instead.
+[sdk:client] Model type "llm" is an alias and will be deprecated. Use "llamacpp-completion" instead.
+[sdk:client] ℹ️ No config file found, using SDK defaults
+[sdk:client] 📱 Runtime context: { runtime: 'node', platform: 'linux' }
+[sdk:client] ✅ Initialization complete
+[sdk:client] Model type "whisper" is an alias and will be deprecated. Use "whispercpp-transcription" instead.
+[?25h[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 Closing RPC client
+[sdk:client] 🐻🔫 Killing bare worker process
+[sdk:client] 🔌 Closing IPC server
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[?25h[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 Closing RPC client
+[sdk:client] 🐻🔫 Killing bare worker process
+[sdk:client] 🔌 Closing IPC server
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[?25h[?25l  [1m[35mSOVEREIGN[39m[2m  Local Multimodal AI  ·  Powered by QVAC  ·  Fully Offline[22m
+[90m╭─────────────────╮[35m╭──────────────────────────────────────────────────────────────────────────────────────╮[90m╭────────────────────────╮[39m
+[90m│[39m [1m[36mFILES[39m[22m           [90m│[35m│[39m [1m[35mCONVERSATION[39m[2m  Type a message to chat…[22m                                                [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mSelect a file to [22m      [90m│[39m
+[90m│[39m [1m[37m▶ [39m[22m [32m🎙 test.mp3[39m  [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mbegin.[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOutput will stream [22m    [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mdirectly[22m               [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2minto the main [22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mconversation.[22m          [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [90m──────────────────────[39m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [1m[36mMODELS[39m[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mLLM   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mWhisp [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOCR   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mTTS   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2mQVAC · offline · [22m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2msovereign[22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m [33m─── [2m⚡ Sovereign is ready. Select a file or type a message to begin.[22m[39m                  [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [90m───────────────[39m [90m│[35m│[39m [36m────────────────────────────────────────────────────────────────────────────────────[39m [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [2m1 file[22m          [90m│[35m│[39m [36m› [39m[2mType a message…[22m[37m█[39m                                                                   [35m│[90m│[39m                        [90m│[39m
+[90m╰─────────────────╯[35m╰──────────────────────────────────────────────────────────────────────────────────────╯[90m╰────────────────────────╯[39m
+[90m─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+ [1m[32m[CHAT][39m[22m                                                                        [2mPgUp/PgDn scroll  Tab mode  Ctrl+F files  Ctrl+C quit[22m
+[sdk:client] Model type "llm" is an alias and will be deprecated. Use "llamacpp-completion" instead.
+[sdk:client] ℹ️ No config file found, using SDK defaults
+[sdk:client] 📱 Runtime context: { runtime: 'node', platform: 'linux' }
+[sdk:client] ✅ Initialization complete
+[sdk:client] Model type "whisper" is an alias and will be deprecated. Use "whispercpp-transcription" instead.
+[?25h[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 Closing RPC client
+[sdk:client] 🐻🔫 Killing bare worker process
+[sdk:client] 🔌 Closing IPC server
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[?25h[?25l  [1m[35mSOVEREIGN[39m[2m  Local Multimodal AI  ·  Powered by QVAC  ·  Fully Offline[22m
+[90m╭─────────────────╮[35m╭──────────────────────────────────────────────────────────────────────────────────────╮[90m╭────────────────────────╮[39m
+[90m│[39m [1m[36mFILES[39m[22m           [90m│[35m│[39m [1m[35mCONVERSATION[39m[2m  Type a message to chat…[22m                                                [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mSelect a file to [22m      [90m│[39m
+[90m│[39m [1m[37m▶ [39m[22m [32m🎙 test.mp3[39m  [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mbegin.[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOutput will stream [22m    [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mdirectly[22m               [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2minto the main [22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mconversation.[22m          [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [90m──────────────────────[39m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [1m[36mMODELS[39m[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mLLM   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mWhisp [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOCR   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mTTS   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2mQVAC · offline · [22m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2msovereign[22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m [33m─── [2m⚡ Sovereign is ready. Select a file or type a message to begin.[22m[39m                  [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [90m───────────────[39m [90m│[35m│[39m [36m────────────────────────────────────────────────────────────────────────────────────[39m [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [2m1 file[22m          [90m│[35m│[39m [36m› [39m[2mType a message…[22m[37m█[39m                                                                   [35m│[90m│[39m                        [90m│[39m
+[90m╰─────────────────╯[35m╰──────────────────────────────────────────────────────────────────────────────────────╯[90m╰────────────────────────╯[39m
+[90m─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+ [1m[32m[CHAT][39m[22m                                                                        [2mPgUp/PgDn scroll  Tab mode  Ctrl+F files  Ctrl+C quit[22m
+[sdk:client] Model type "llm" is an alias and will be deprecated. Use "llamacpp-completion" instead.
+[sdk:client] ℹ️ No config file found, using SDK defaults
+[sdk:client] 📱 Runtime context: { runtime: 'node', platform: 'linux' }
+[sdk:client] ✅ Initialization complete
+[sdk:client] Model type "whisper" is an alias and will be deprecated. Use "whispercpp-transcription" instead.
+[?25h[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 Closing RPC client
+[sdk:client] 🐻🔫 Killing bare worker process
+[sdk:client] 🔌 Closing IPC server
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[sdk:client] 🧹 No models or providers active, automatically closing RPC connection...
+[?25h[?25l  [1m[35mSOVEREIGN[39m[2m  Local Multimodal AI  ·  Powered by QVAC  ·  Fully Offline[22m
+[90m╭─────────────────╮[35m╭──────────────────────────────────────────────────────────────────────────────────────╮[90m╭────────────────────────╮[39m
+[90m│[39m [1m[36mFILES[39m[22m           [90m│[35m│[39m [1m[35mCONVERSATION[39m[2m  Type a message to chat…[22m                                                [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mSelect a file to [22m      [90m│[39m
+[90m│[39m [1m[37m▶ [39m[22m [32m🎙 test.mp3[39m  [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mbegin.[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOutput will stream [22m    [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mdirectly[22m               [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2minto the main [22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mconversation.[22m          [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [90m──────────────────────[39m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [1m[36mMODELS[39m[22m                 [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mLLM   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mWhisp [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mOCR   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m [2mTTS   [22m[90m○ not loaded[39m     [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2mQVAC · offline · [22m [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m      [2msovereign[22m         [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m [33m─── [2m⚡ Sovereign is ready. Select a file or type a message to begin.[22m[39m                  [35m│[90m│[39m                        [90m│[39m
+[90m│[39m                 [90m│[35m│[39m                                                                                      [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [90m───────────────[39m [90m│[35m│[39m [36m────────────────────────────────────────────────────────────────────────────────────[39m [35m│[90m│[39m                        [90m│[39m
+[90m│[39m [2m1 file[22m          [90m│[35m│[39m [36m› [39m[2mType a message…[22m[37m█[39m                                                                   [35m│[90m│[39m                        [90m│[39m
+[90m╰─────────────────╯[35m╰──────────────────────────────────────────────────────────────────────────────────────╯[90m╰────────────────────────╯[39m
+[90m─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────[39m
+ [1m[32m[CHAT][39m[22m                                                                        [2mPgUp/PgDn scroll  Tab mode  Ctrl+F files  Ctrl+C quit[22m
+[sdk:client] Model type "llm" is an alias and will be deprecated. Use "llamacpp-completion" instead.
+[sdk:client] ℹ️ No config file found, using SDK defaults
+[sdk:client] 📱 Runtime context: { runtime: 'node', platform: 'linux' }
+[sdk:client] ✅ Initialization complete
+[sdk:client] Model type "whisper" is an alias and will be deprecated. Use "whispercpp-transcription" instead.
